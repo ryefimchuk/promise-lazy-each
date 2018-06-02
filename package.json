@@ -22,7 +22,7 @@
     "es2015",
     "typescript"
   ],
-  "author": "Roman Yefimchuk",
+  "author": "Roman Yefimchuk <ryefimchuk@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "typescript": "^2.9.1"
