@@ -1,6 +1,6 @@
 {
   "name": "@ryefimchuk/promise-lazy-each",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "dist/index.js",
   "homepage": "https://github.com/ryefimchuk/promise-lazy-each",
