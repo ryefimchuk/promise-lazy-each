@@ -9,7 +9,7 @@ export default function promiseLazyEach<T>(values: T[], promiseFactory: (value: 
 
         const nextIteration: (index?: number) => void = (index: number = 0): void => {
 
-            if (index === promiseFactory.length) {
+            if (index === values.length) {
 
                 resolve();
             } else {
